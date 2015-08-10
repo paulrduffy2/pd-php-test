@@ -11,13 +11,13 @@
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
 
-    <body bgcolor="#00FF00">
+    <body bgcolor="#0000FF">
         <div class="container">
             <div class="hero-unit">
-                <h1><font face="verdana" color="yellow">Simple PHP Test Application EXTRA!</font></h1>
+                <h1><font face="verdana" color="yellow">Simple PHP Test Application!</font></h1>
                 <br>
                 <br>
-                <p><font face="verdana" color="yellow" size="5">This simple PHP test application was deployed in a Runnable Sandbox!</font></p>
+                <p><font face="verdana" color="yellow" size="5">This simple PHP test application was deployed on Heroku!</font></p>
                 <br>
                 <br>
                 <p><font face="verdana" color="yellow" size="3">GitHub integration made this really simple to get running in a Runnable Sandbox</font></p>
